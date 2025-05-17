@@ -1,9 +1,29 @@
 # 📋 TaskBoard Pro
 
 
-
 TaskBoard Pro is an advanced task collaboration platform designed to streamline project management workflows. The application enables teams to create projects, manage tasks across customizable status boards, assign responsibilities, and implement powerful automation rules that trigger actions based on task changes.
 
+---
+## 📸Screenshots 
+
+  ![image](https://github.com/user-attachments/assets/408a5144-19ad-4cdd-bf97-0d7e942801f4)
+
+ ![image](https://github.com/user-attachments/assets/e7555492-6ead-43cc-8478-d800fe42f9fa)
+ 
+ ![image](https://github.com/user-attachments/assets/3457565d-66b6-4748-9da8-829542bbbc0a)
+
+  ![image](https://github.com/user-attachments/assets/b281f8fd-613c-41dc-8f64-b5eab03d0be9)
+
+ ![image](https://github.com/user-attachments/assets/315b33a3-13d5-44c8-b524-7abf56a27ef3)
+
+
+ ---
+
+ ## 📸Demo Vedio Link
+ 
+#### https://drive.google.com/file/d/1xKlnSSJqY5_UE0F1yeefEzIycg4oiqu_/view?usp=sharing
+       
+   
 ---
 
 ## 🚀 Key Features
@@ -311,13 +331,6 @@ TaskBoard Pro is an advanced task collaboration platform designed to streamline 
  #### Frontend tests
        cd client
        npm test
-
----
-
-## 📸Screenshots
-
-
-
 
 ---
 
