@@ -301,12 +301,12 @@ TaskBoard Pro is an advanced task collaboration platform designed to streamline 
        cd ../client
        npm install
 
- ### Configure environment variables
+ #### Configure environment variables
          # In the server directory
           cp .env.example .env
          # Then edit .env with your MongoDB URI and other secrets
 
-### Start development servers
+#### Start development servers
     #Start backend
           cd server
          npm run dev
